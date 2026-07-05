@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0159_000.yaml, hash: 'sha256:187dec926d5506cbecf68b410907773cea621202357209b4594ce4cbccf90021'}
-  - {seq: 1, filename: KR6c0159_001.yaml, hash: 'sha256:1f4973fb8e39f217a66fad83419c4cd90a15422696862affa66c9cdb313fdeb9'}
+  - {seq: 0, filename: KR6c0159_000.yaml, hash: 'sha256:fdd3475d63bef48f5abdf726503e419b8ee280c9bffab8b00e8cc249680403f4'}
+  - {seq: 1, filename: KR6c0159_001.yaml, hash: 'sha256:ee732a00c939681a568c1b67fea7dcf13d5d5e87240f6831d1ed6444bf6b43d9'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0159_000.markers.yaml, hash: 'sha256:58474507c02c894fa6032c4d093ca149d4c4e11c08d20a38c1a1d9c098024938'}
-  - {seq: 1, role: markers, filename: assets/KR6c0159_001.markers.yaml, hash: 'sha256:b9523a5052423f795fde579ba2deadc0c677368b50ab7caedb5f995a2125f8f1'}
+  - {seq: 0, role: markers, filename: assets/KR6c0159_000.markers.yaml, hash: 'sha256:452820188f6140fa760c4006d28407952dfe13039d405e09af7f87b3b40102ef'}
+  - {seq: 1, role: markers, filename: assets/KR6c0159_001.markers.yaml, hash: 'sha256:e44e80ece84308009fa73e8474e326fae22dab645bd80e0ccf3dbfac24787540'}
 table_of_contents:
 - ref:
     seq: 0
@@ -67,7 +67,4 @@ table_of_contents:
   label: 般若波羅蜜多心經釋義
   type: juan
   level: 1
-hash: sha256:1eccfe68c09d9ec84b3505cee1a7a341da2133070964963e7facb9592ee30f4e
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:29cad7171bbdd2f869f59c616fb256ba9bca7e95af33cd66fa92436ab36ee18a
