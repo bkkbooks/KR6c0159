@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0159_000.yaml, hash: 'sha256:d61ceb86a3b8a1e23fd3105e2395cfb3957529ed0e1bddab64683e098cf059a6'}
+  - {seq: 0, filename: KR6c0159_000.yaml, hash: 'sha256:4ed272dbe5d532575b25bc235e3953d2ca077e5603eb898a7e8dc42580f5e2a7'}
   - {seq: 1, filename: KR6c0159_001.yaml, hash: 'sha256:ac26d35c2868ade0db8b6933af0b095940bc0e89c44460e061e07ddb5bf2061d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0159_000.markers.yaml, hash: 'sha256:c50c9b1f2cc93e524c31b10b4b594a19ab09da2716a830964cb8868390d8af5c'}
+  - {seq: 0, role: markers, filename: assets/KR6c0159_000.markers.yaml, hash: 'sha256:cfe541ae042ad7db60577428f3a09485769ef35ae5e23cb3e88583940abf2358'}
   - {seq: 1, role: markers, filename: assets/KR6c0159_001.markers.yaml, hash: 'sha256:20e136af09b8f051e802515c8ce8f6076793850dc82565bced935d73493311e8'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6c0159_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 540-A 般若波羅蜜多心經略疏序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0159_X_000-mulu-2
     span:
-    - front
+    - body
     - 349
     - 349
   label: No. 540-B 般若波羅蜜多心經釋義序
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0159_X_000-mulu-3
     span:
-    - front
+    - body
     - 979
     - 979
   label: 般若波羅蜜多心經釋義
@@ -67,7 +67,7 @@ table_of_contents:
   label: 般若波羅蜜多心經釋義
   type: juan
   level: 1
-hash: sha256:1fa9c4008b4002578f2f2ae96f7a7107291c94f743bbdab87c01c6f2c008ae27
+hash: sha256:cce4225a2498707e0c306543c7be55f32973b6384ccc1ef79767a00dee9e95f3
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
